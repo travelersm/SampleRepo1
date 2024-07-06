@@ -11,4 +11,4 @@ I enjoying:
 * Taking photoes
 
 Here's a photoe I toke when I visit Getty Center:
-![Spring Flowers in Getty Center Garden](https://github.com/travelersm/SampleRepo1/blob/main/images/Spring Flowers in Getty Center Garden.png)
+![SpringFlowersinGettyCenter](https://github.com/travelersm/SampleRepo1/blob/main/images/SpringFlowersinGettyCenter.png)
